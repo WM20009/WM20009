@@ -2,7 +2,7 @@
 ## About Me
 - Xi'an Jiaotong University, 24 CS Honor.
 - AIGC researcher. Video/3D/4D.
-- a inclination for observation&theory --> insight
+- an inclination for observation&theory --> insight
 ## Misc
 - Blog Maintainer：[nest-of-wander](https://nest-of-wander-gt3l.vercel.app/)
 - zhihu：[@simile](https://www.zhihu.com/people/zhi-nan-51-31)
