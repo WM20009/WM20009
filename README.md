@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @WM20009
 ## About Me
 - Xi'an Jiaotong University, 24 CS Honor.
-- AIGC researcher. Video/3D/4D.
+- GenAI(AIGC) researcher. Video/3D/4D.
 - an inclination for observation&theory --> insight
 ## Misc
 - Blog Maintainer：[nest-of-wander](https://nest-of-wander-gt3l.vercel.app/)
