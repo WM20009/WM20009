@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @WM20009
-- 👀 I’m interested in amazing ideas in science and technology and I'm also a literature-lovers.
-- 🌱 I’m currently learning CS as an undergraduate in XJTU.
-- 💞️ I’m looking to collaborate on foreign opening courses and other interesting projects.
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: waiting for you to explore!
+# 👋 Hi, I’m @WM20009
+---
+## About Me
+- Xi'an Jiaotong University, 24 CS Honor.
+- AIGC researcher. Video/3D/4D.
+- a inclination for observation&theory --> insight
+---
+## Misc
+- Blog Maintainer：[nest-of-wander](https://nest-of-wander-gt3l.vercel.app/)
+- zhihu:[@simile](https://www.zhihu.com/people/zhi-nan-51-31)
 
 <!---
 WM20009/WM20009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
